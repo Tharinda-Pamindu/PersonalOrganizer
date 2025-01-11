@@ -1,0 +1,149 @@
+  PersonalOrganizer.AddTask.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.Budget.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.ExpenseForm.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.IncomeForm.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.Info.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.LoginForm.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.Main.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.MonthlyReport.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.RegisterForm.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.Report.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.ShowTask.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.StartUp.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.UserDetails.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly PersonalOrganizer, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Messaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class DBConnection: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Methods:
+    GetInstance(): PrivateScope, Public, Static, HideBySig
+    OpenConnection(): PrivateScope, Public, HideBySig
+    CloseConnection(): PrivateScope, Public, HideBySig
+    GetConnection(): PrivateScope, Public, HideBySig
+Class User: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.DateTime NextDate 'get set' : 
+    System.DateTime RegisteredDate 'get set' : 
+    System.String Password 'get set' : 
+    System.String Phone 'get set' : 
+    System.String Address 'get set' : 
+    System.String Email 'get set' : 
+    System.String Name 'get set' : 
+    Int32 Id   'get set' : 
+  Methods:
+    set_Id(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_Id(): PrivateScope, Public, HideBySig, SpecialName
+    set_Name(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Name(): PrivateScope, Public, HideBySig, SpecialName
+    set_Email(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Email(): PrivateScope, Public, HideBySig, SpecialName
+    set_Address(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Address(): PrivateScope, Public, HideBySig, SpecialName
+    set_Phone(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Phone(): PrivateScope, Public, HideBySig, SpecialName
+    set_Password(String): PrivateScope, Public, HideBySig, SpecialName
+    get_Password(): PrivateScope, Public, HideBySig, SpecialName
+    set_RegisteredDate(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_RegisteredDate(): PrivateScope, Public, HideBySig, SpecialName
+    set_NextDate(DateTime): PrivateScope, Public, HideBySig, SpecialName
+    get_NextDate(): PrivateScope, Public, HideBySig, SpecialName
+Class PersonalOrganizer.AddTask: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PersonalOrganizer.Budget: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Struct ExpenseCategory: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    ExpenseCategory Travel = 0 : Public, Static, Literal, HasDefault
+    ExpenseCategory Food = 1 : Public, Static, Literal, HasDefault
+    ExpenseCategory Utilities = 2 : Public, Static, Literal, HasDefault
+    ExpenseCategory Entertainment = 3 : Public, Static, Literal, HasDefault
+    ExpenseCategory Health = 4 : Public, Static, Literal, HasDefault
+    ExpenseCategory Education = 5 : Public, Static, Literal, HasDefault
+    ExpenseCategory Clothing = 6 : Public, Static, Literal, HasDefault
+    ExpenseCategory UniversityFees = 7 : Public, Static, Literal, HasDefault
+    ExpenseCategory Others = 8 : Public, Static, Literal, HasDefault
+Class PersonalOrganizer.ExpenseForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PersonalOrganizer.IncomeForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Struct IncomeCategory: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    IncomeCategory Job = 0 : Public, Static, Literal, HasDefault
+    IncomeCategory AllowanceFromParents = 1 : Public, Static, Literal, HasDefault
+    IncomeCategory Scholarships = 2 : Public, Static, Literal, HasDefault
+    IncomeCategory StudentAid = 3 : Public, Static, Literal, HasDefault
+    IncomeCategory Others = 4 : Public, Static, Literal, HasDefault
+Class PersonalOrganizer.Info: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PasswordHash: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Encrypt(String): PrivateScope, Public, Static, HideBySig
+    Decrypt(String): PrivateScope, Public, Static, HideBySig
+Class PersonalOrganizer.LoginForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean shiftToRegister : Public
+    User user : Public
+Class PersonalOrganizer.MonthlyReport: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PersonalOrganizer.Report: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class PersonalOrganizer.ShowTask: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Today(): PrivateScope, Public, HideBySig
+    LoadData(): PrivateScope, Public, HideBySig
+Class PersonalOrganizer.UserDetails: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    User user : Public
+Class PersonalOrganizer.Main: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(User): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean logOut : Public
+Class PersonalOrganizer.RegisterForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean shiftToLogin : Public
+    User user : Public
+Class PersonalOrganizer.StartUp: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class ManageMe: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Start(): PrivateScope, Public, HideBySig

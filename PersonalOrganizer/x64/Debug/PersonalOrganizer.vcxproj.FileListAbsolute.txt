@@ -1,0 +1,43 @@
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.vcxproj.AssemblyReference.cache
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.SuperAdmin.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.vcxproj.GenerateResource.cache
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.LoginForm.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.DashBoard.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.RegisterForm.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Main.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.ExpenseForm.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.IncomeForm.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.AddTask.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.MonthlyReport.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Report.resources
+D:\RUSL\First Year\OOP project\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.ShowTask.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.vcxproj.AssemblyReference.cache
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.AddTask.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.ExpenseForm.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.IncomeForm.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.LoginForm.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Main.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.MonthlyReport.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.RegisterForm.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Report.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.ShowTask.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.vcxproj.GenerateResource.cache
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Budget.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.UserDetails.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.StartUp.resources
+E:\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Info.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.vcxproj.AssemblyReference.cache
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.AddTask.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Budget.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.ExpenseForm.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.IncomeForm.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Info.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.LoginForm.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Main.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.MonthlyReport.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.RegisterForm.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.Report.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.ShowTask.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.StartUp.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.UserDetails.resources
+D:\RUSL\First Year\OOP project\Original\My Projects\PersonalOrganizer\PersonalOrganizer\x64\Debug\PersonalOrganizer.vcxproj.GenerateResource.cache
