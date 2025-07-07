@@ -69,4 +69,4 @@ A desktop application built with C++/CLI to help you manage your personal financ
 
 ## Author
 
-  * **Tharinda Pamindu** - [your-username](https://github.com/your-username)
+  *  - [**Tharinda Pamindu**](https://github.com/your-username)
